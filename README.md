@@ -1,8 +1,5 @@
 <h1 align="center">Cześć 👋 (GsaiberS)</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Разработчик+из+Кемерово;C%2B%2B+%7C+Python+%7C+PHP+%7C+Dart;Учусь+и+делаю+пет-проекты" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Kemerovo,_Russia-8A2BE2?style=flat-square" />
