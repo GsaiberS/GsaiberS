@@ -39,8 +39,9 @@
 ### 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GsaiberS&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GsaiberS&layout=compact&theme=radical&hide_border=true" width="41%" />
+  <img src="https://img.shields.io/github/followers/GsaiberS?label=Followers&style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/badge/Repositories-13-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stars-4-8A2BE2?style=for-the-badge" />
 </p>
 
 ### 🔗 Связаться со мной
